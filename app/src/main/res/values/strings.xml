@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UI_design</string>
+    <array name="generes">
+        <item>Rock</item>
+        <item>Folk</item>
+        <item>Sufi</item>
+    </array>
+</resources>
